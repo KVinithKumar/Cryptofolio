@@ -28,7 +28,7 @@ Clone the repository:
 ```markdown
 
 
-git clone https://github.com/jynt1401/Cryptofolio_fullStack.git
+git clone https://github.com/KVinithKumar/Cryptofolio.git
 ```
 Navigate to the project directory:
 ```markdown
