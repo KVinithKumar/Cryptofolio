@@ -61,7 +61,4 @@ API Name: The app utilizes an API to fetch real-time cryptocurrency data. (Speci
 
 
 
-https://github.com/jynt1401/Cryptofolio_fullStack/assets/100084399/7ff597f0-fe8d-49e4-a433-15dec2a4af83
-
-
 
